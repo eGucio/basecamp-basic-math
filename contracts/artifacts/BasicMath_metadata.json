@@ -37,14 +37,14 @@
 			{
 				"inputs": [
 					{
-						"internalType": "uint8",
+						"internalType": "uint256",
 						"name": "_a",
-						"type": "uint8"
+						"type": "uint256"
 					},
 					{
-						"internalType": "uint8",
+						"internalType": "uint256",
 						"name": "_b",
-						"type": "uint8"
+						"type": "uint256"
 					}
 				],
 				"name": "subtractor",
@@ -92,11 +92,11 @@
 	},
 	"sources": {
 		"contracts/BasicMath.sol": {
-			"keccak256": "0xebdddfaab18555ce41899aa3a14907723ce390e914e8bfe96f0cfab8ac7d9e63",
+			"keccak256": "0x18a302c0dad067b7fc0ba82b31af51c7ae613fcdc7713229b9ada155c3448be5",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://cdc435d31e6a2d66288663b71299d6b408b57d20d12a84f4dc9f09577c644c98",
-				"dweb:/ipfs/QmPtn55cLzPk6d2LBN8AWMcKRjGrsa5CHAv4cbrXEJ7yj3"
+				"bzz-raw://012d81fdd83e4fb49f78e9fa49697dee26cc59b9a73ed3ad81605c8e3ec415bc",
+				"dweb:/ipfs/QmTDDxVNsT2N77fq4Xio1JirbejXNG3JAiEiZruZAycCZA"
 			]
 		}
 	},

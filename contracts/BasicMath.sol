@@ -15,7 +15,7 @@ contract BasicMath {
         }
     }
 
-    function subtractor(uint8 _a, uint8 _b) external pure returns (uint difference, bool error) {
+    function subtractor(uint _a, uint _b) external pure returns (uint difference, bool error) {
         unchecked{
             difference = _a - _b;
             if(difference <= _a){
